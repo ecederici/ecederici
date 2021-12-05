@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi! Welcome to my github page. 👋
 
-<!--
-**ecederici/ecederici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Melike Ece Derici. Mathematical Engineer and Software Developer - JavaScript Lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=ecederici)
+
+![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecederici&show_icons=true)
+
+## Graduation
+
+B.S in Mathematical Engineering |  [Yıldız Technical University](https://www.yildiz.edu.tr/)
+
+## I'm currently working on 🔭
+
+Software Developer - FlowQ Talent Analytics
+
+## Contact Me 📫
+
+You can find and get touch with me via Linkedin and Instagram!
+
+[![Linkedin Badge](https://img.shields.io/badge/ecederici-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ece-derici/)
+[![Instagram Badge](https://img.shields.io/badge/ecederici-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/ecederici/)
+
