@@ -1,7 +1,7 @@
 ### Hi! Welcome to my github page. 👋
 
 
-I'm Melike Ece Derici. Mathematical Engineer and Software Developer - JavaScript Lover
+I'm Melike Ece Derici. Mathematical Engineer and Software Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ecederici)
 
@@ -11,14 +11,9 @@ I'm Melike Ece Derici. Mathematical Engineer and Software Developer - JavaScript
 
 B.S in Mathematical Engineering |  [Yıldız Technical University](https://www.yildiz.edu.tr/)
 
-## I'm currently working on 🔭
-
-Software Developer - FlowQ Talent Analytics
-
 ## Contact Me 📫
 
 You can find and get touch with me via Linkedin and Instagram!
 
 [![Linkedin Badge](https://img.shields.io/badge/ecederici-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ece-derici/)
 [![Instagram Badge](https://img.shields.io/badge/ecederici-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/ecederici/)
-
